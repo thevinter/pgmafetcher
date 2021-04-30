@@ -1,7 +1,7 @@
 # A simple GitHub repo fetcher to use inside the Arnaldo Program of the IEEE Student Branch of the University Of Brescia
 
 # Usage
-* Clone the file into an empty repository
+* Clone the files into an empty repository
 * Generate the dependencies using ```pip install -r requirements.txt```
 * Modify the groups.txt file using a line for each group using the format "GROUPNAME ADMINNAME" (Use NULL if the admin name is unknown)
 * Create an OAuth Personal token with Repo permissions 
