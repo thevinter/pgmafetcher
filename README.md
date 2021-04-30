@@ -2,7 +2,7 @@
 
 # Usage
 * Clone the file into an empty repository
-* Generate the dependencies using ```pip nstall -r requirements.txt```
+* Generate the dependencies using ```pip install -r requirements.txt```
 * Modify the groups.txt file using a line for each group using the format "GROUPNAME ADMINNAME" (Use NULL if the admin name is unknown)
 * Create an OAuth Personal token with Repo permissions 
 
