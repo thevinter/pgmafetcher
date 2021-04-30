@@ -51,7 +51,7 @@ if(TOKEN != ""):
 		os.makedirs(folderpath)
 		print ('Created:', folderpath)
 	for (group, username) in groups:
-		if username == "TheTrinity" print(f"Se sono le 14 e {username} non ha consegnato è tempo di prendere le lame")
+		if username == "TheTrinity" print(f"Se sono le 14 (GMT+1) e {username} non ha consegnato è tempo di prendere le lame")
 		if username != "NULL":
 			actual_url = f"https://github.com/{username}/PgAr2021_{group}_{project_name}.git"
 			try:
