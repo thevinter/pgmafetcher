@@ -1,4 +1,4 @@
-TripleTeslas NULL
+TripleTeslas Prabh-crypto
 404IqNotFound Parzival8851	
 Artefici GretaBr01
 Burglars NotValcake	
@@ -6,7 +6,6 @@ CtrlSpaceSquad TTT357C
 CuoriSolitari CuoriSolitari	
 DarkLight Francesco-Morettini
 Exception ExceptionArnaldo
-GammaTrianguli NULL
 GeriatricPark wiam2912
 GliAxolotl DanieleS14 	
 GliSprogrammatori AlessandroMuscio
@@ -23,6 +22,6 @@ RuntimeTerrors Trugix
 SumatraScript SumatraScript	
 Team8Bit KuraiKunshu	
 TheFightClub jadi888	
-TheTeslerTeam NULL
+TheTeslerTeam m-ippo
 TheTrinity NULL
 ToBDefined ImAlbi57
