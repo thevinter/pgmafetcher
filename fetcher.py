@@ -51,6 +51,7 @@ if(TOKEN != ""):
 		os.makedirs(folderpath)
 		print ('Created:', folderpath)
 	for (group, username) in groups:
+		if username == "TheTrinity" print("Suca")
 		if username != "NULL":
 			actual_url = f"https://github.com/{username}/PgAr2021_{group}_{project_name}.git"
 			try:
